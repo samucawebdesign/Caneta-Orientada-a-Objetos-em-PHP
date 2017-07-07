@@ -19,6 +19,7 @@
 	print_r($c1);
 	$c1->rabiscar();
 	$c1->tampar();
+	$c1->rabiscar();
 	print_r($c1);
 	?>
     </pre>
