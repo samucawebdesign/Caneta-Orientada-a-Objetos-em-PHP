@@ -21,6 +21,7 @@
 	$c1->tampar();
 	$c1->rabiscar();
 	$c1->tampar();
+	$c1->tampar();
 	print_r($c1);
 	?>
     </pre>
