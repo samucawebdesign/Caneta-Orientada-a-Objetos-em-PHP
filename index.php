@@ -23,7 +23,12 @@
 	print_r($c1); # olá
 	# Mas e agora, fiz ajustes e não sei mais o que eu mexi
 	
+<<<<<<< HEAD
 	# agora estou no ambiente de produção
+=======
+	# Mudei para o ambiente de testes, porém, agora quero juntar isso com o ambiente master
+	# porque rodou tudo certinho, então fechou!
+>>>>>>> teste
 	?>
     </pre>
 </body>
