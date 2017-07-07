@@ -22,6 +22,8 @@
 	$c1->rabiscar(); #teste 123
 	print_r($c1); # olá
 	# Mas e agora, fiz ajustes e não sei mais o que eu mexi
+	
+	# Mudei para o ambiente de testes
 	?>
     </pre>
 </body>
