@@ -21,6 +21,7 @@
 	$c1->tampar();
 	$c1->rabiscar(); #teste 123
 	print_r($c1); # olá
+	# Mas e agora, fiz ajustes e não sei mais o que eu mexi
 	?>
     </pre>
 </body>
